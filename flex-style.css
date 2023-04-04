@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-evenly;
+    align-items: center;
+    flex-wrap:  wrap;
+    align-content: center;
+}
+
+.item-3 {
+    order: 1;
+}
+
+.item-3 {
+    /* flex-grow: 1;
+    flex-shrink: ;
+    flex-basis: ; */
+    /* grow, shrink, basis */
+    /* flex: 1;  */
+    /* justify-self: 
+    align-self: ; */
+    order: -1;
+}

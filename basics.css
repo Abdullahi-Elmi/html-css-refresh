@@ -1,0 +1,37 @@
+/* p.error{
+    color: red;
+}
+p.success{
+    color: green;
+}
+p.success.feedback{
+    border: 1px dashed;
+}
+
+#content{
+    background-color: #ebebeb;
+    padding: 20px;
+} */
+
+/* div p{
+    color: purple;
+} */
+
+/* a[href] */
+/* a[href="https://www.google.com"] */
+/* a[href*="google"]{
+    background-color: #3dd13d;
+    text-transform: uppercase;
+} */
+
+div{
+    color: lightcoral;
+    border: 1px solid white;
+    margin: 40px;
+}
+
+p.error{
+    border: inherit;
+    margin: inherit;
+    color: crimson;
+}
