@@ -30,8 +30,14 @@ div{
     margin: 40px;
 }
 
-p.error{
+.error{
     border: inherit;
     margin: inherit;
     color: crimson;
+}
+
+.success{
+    border: inherit;
+    margin: inherit;
+    color: limegreen;
 }
